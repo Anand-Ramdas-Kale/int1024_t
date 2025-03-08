@@ -33,6 +33,3 @@ This will run the example interface demonstrating `int1024_t` functionality.
 
 ## Editing and Extending
 Modify `core.c` to extend or optimize `int1024_t` operations. The `.s` files contain assembly-optimized functions.
-
-## License
-This project is released under [your preferred license].
